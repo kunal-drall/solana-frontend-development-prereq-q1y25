@@ -1,5 +1,6 @@
 import BoilerPlate from '../../components/BoilerPlate';
 
+
 const Starter = () => (
     <BoilerPlate />
 )
